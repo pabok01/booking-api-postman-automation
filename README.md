@@ -66,7 +66,7 @@ https://github.com/rjalim/booking-api-tests-postman-newman.git
       
 3. View Results:
     -   Once the tests are complete, view the results in the Runner tab.
-    -   Detailed test results can be viewed for each request.
+    -   Detailed test results can be viewed for each request
 
 ## **Testing**
 
